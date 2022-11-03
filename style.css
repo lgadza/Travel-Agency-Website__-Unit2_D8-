@@ -54,11 +54,11 @@ h2 {
 .card-mgn.col-sm-2 {
   /* margin: 0 5px; */
 }
-.d-d {
+/* .d-d {
   width: 66%;
 
   /* overflow: hidden; */
-}
+} */
 #favourite {
   margin-top: 30px;
 }
@@ -72,4 +72,12 @@ h2 {
 }
 #d-d {
   margin-top: 50px;
+}
+@media screen and (max-width: 830px) {
+  #d-d {
+    display: none;
+  }
+  .d-dd {
+    display: none;
+  }
 }
