@@ -50,17 +50,20 @@ body {
 }
 h2 {
   text-align: center;
+  margin-bottom: 20px;
 }
 .card-mgn.col-sm-2 {
   /* margin: 0 5px; */
 }
-/* .d-d {
-  width: 66%;
+.img-h {
+  height: 163px;
+}
 
-  /* overflow: hidden; */
-} */
 #favourite {
   margin-top: 30px;
+}
+.card-img-top {
+  height: 102px;
 }
 .card-body {
   /* transform: translateX(-150px); */
